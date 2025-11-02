@@ -65,5 +65,7 @@ WindbellOS/
 - [ ] 文件系统支持
 
 ## 许可证
-本项目采用MIT许可证。
+本项目采用MIT许可证。详情请参阅 [LICENSE](LICENSE) 文件。
+
+## 版权
 2025 © WindbellOS 开发团队
